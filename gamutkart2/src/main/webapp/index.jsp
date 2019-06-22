@@ -32,13 +32,12 @@
 
 		<div id="tabs">
 			<ul>
-			<li><a href="#tabs-1">FashionGamut</a></li>
+			<li><a href="#tabs-1">OnlineFashion</a></li>
 				<li><a href="#tabs-2">Electronics</a></li>
 				<li><a href="#tabs-3">Groceries</a></li>
 				<li><a href="#tabs-4">Mobiles</a></li>
 			</ul>
 			<div id="tabs-1">
-			<img src="https://sample-videos.com/img/Sample-jpg-image-100kb.jpg" alt="GamutFashions" usemap="#workmap" width="400" height="379">
 				<p>Jenkins is a powerful application that allows continuous
 					integration and continuous delivery of projects, regardless of the
 					platform you are working on. It is a free source that can handle
@@ -53,16 +52,6 @@
 					take place</p>
 			</div>
 			<div id="tabs-2">
-			<h2>Image Maps</h2>
-			<p>Click on the computer, the phone, or the cup of coffee to go to a new page and read more about the topic:</p>
-
-			<img src="https://www.w3schools.com/html/workplace.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
-
-			<map name="workmap">		
-			<area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
-			<area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
-			<area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
-			</map>
 				<p>
 					Docker has <a
 						href="http://www.actonmagic.com/blog/container-vs-virtualization/">revolutionized
@@ -88,7 +77,6 @@
 				</p>
 			</div>
 			<div id="tabs-3">
-			<img src="https://images.all-free-download.com/images/graphiclarge/fruits_201942.jpg" alt="Workplace" usemap="#workmap" width="400" height="379"                        >
 				<p>Ansible is a configuration management tool or devops tools
 					that is similar to Puppet and Chef.</p>
 				<p>Ansible is a very simple configuration language, I would say.
@@ -114,9 +102,7 @@
 			</div>
 			<div id="tabs-4">
 				<p>Motorola</p>
-			<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Motorola-Logo.jpg" alt="Workplace" usemap="#workmap" width="400" height="379"                             >
 				<p>Apple</p>
-			<img src="https://image.flaticon.com/icons/svg/37/37150.svg" alt="Workplace" usemap="#workmap" width="400" height="379"                                                 >
 			</div>
 		</div>
 

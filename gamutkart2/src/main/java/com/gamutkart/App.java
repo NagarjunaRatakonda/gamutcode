@@ -5,8 +5,7 @@ public class App
     public static void main( String[] args )
     {
 		int i;
-// testing continuous buids in Jenkins
-		for(i=0;i<=40;i++)
+		for(i=0;i<=500;i++)
 		{
 			i += 3;
         	System.out.println( "print number: " + i);

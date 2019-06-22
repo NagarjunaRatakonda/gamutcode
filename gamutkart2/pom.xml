@@ -1,6 +1,4 @@
 <project>
-	<!-- blablabla -->
-	<!-- blablabla -->
 
 	<modelVersion>4.0.0</modelVersion>
 
@@ -29,5 +27,6 @@
 	<build>
 		<finalName>gamutkart</finalName>
 	</build>
-   </project>
+	
+</project>
 
